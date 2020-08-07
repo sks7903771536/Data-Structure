@@ -1,4 +1,4 @@
-# Data-Structure 
+#  Permutation with spaces
 // Permutation with spaces
 #include <bits/stdc++.h>
 using namespace std;
